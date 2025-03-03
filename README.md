@@ -19,5 +19,5 @@
 ---
 
 ### 📫 Let's Connect!
-- 🔗 [LinkedIn](https://www.linkedin.com/in/tonlinkedin/](https://www.linkedin.com/in/raed-med-amin-hamrouni-3a6406228/)
+- 🔗 LinkedIn: (https://www.linkedin.com/in/raed-med-amin-hamrouni-3a6406228/)
 - 📧 Email: (hamrouniraed50@gmail.com)
