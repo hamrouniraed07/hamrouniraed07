@@ -16,17 +16,8 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonusername&show_icons=true&theme=dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonusername&layout=compact&theme=dark"/>
-</p>
-
 ---
 
 ### 📫 Let's Connect!
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/tonlinkedin/](https://www.linkedin.com/in/raed-med-amin-hamrouni-3a6406228/))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tonlinkedin/](https://www.linkedin.com/in/raed-med-amin-hamrouni-3a6406228/)
 - 📧 Email: (hamrouniraed50@gmail.com)
