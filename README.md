@@ -1,5 +1,5 @@
-### Hi there! 👋 I'm Raed Mohamed Amin Hamrouni  
-#### 🚀 Software Engineer
+# Hi there! 👋 I'm Raed Mohamed Amin Hamrouni  
+### 🚀 Software Engineer
 
 ---
 
@@ -16,11 +16,11 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
- 
 </p>
 
 ---
 
 ### 📫 Let's Connect!
-- 🔗 LinkedIn: [Raed Med Amin Hamrouni](https://www.linkedin.com/in/raed-med-amin-hamrouni-3a6406228/)
-- 📧 Email: [hamrouniraed50@gmail.com](mailto:hamrouniraed50@gmail.com)
+
+- 🔗 [LinkedIn: Raed Med Amin Hamrouni](https://www.linkedin.com/in/raed-med-amin-hamrouni-3a6406228/)
+- 📧 [Email: hamrouniraed50@gmail.com](mailto:hamrouniraed50@gmail.com)
