@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Raed Mohamed Amin Hamrouni and I'm a Future Data Scientist & Software Engineer from Tunisia 🇹🇳</h2>
+<h2 align="left">Hi 👋! My name is Raed Mohamed Amin Hamrouni and I'm a Future Data Scientist from Tunisia 🇹🇳</h2>
 
 ---
 
