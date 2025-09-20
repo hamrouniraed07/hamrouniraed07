@@ -30,17 +30,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-- 🏨 **Hotel Microservices Project** – Reservation system built with **gRPC, GraphQL, REST, Kafka, API Gateway, Docker**  
-  🔗 [GitHub Repository](https://github.com/hamrouniraed07/Hotel_microservices)
-
-- 🏥 **Medical Risk Prediction** – Predicting post-operative complications using **TensorFlow, Pandas, Flask**
-
-- 📊 **CRM Module** – Customer complaint management system with **React, Node.js, PostgreSQL, Express**
-
----
-
 ### 📫 Connect with me
 
 <p align="left">
