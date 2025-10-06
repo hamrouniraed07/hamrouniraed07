@@ -21,7 +21,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamrouniraed07&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamrouniraed07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamrouniraed07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" />
 </div>
 
@@ -62,7 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" title="Angular" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" title="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" title="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" title="Spring Boot" />
 </p>
 
 #### 🗄️ Databases
@@ -87,17 +87,17 @@
 
 <div align="center">
 
-[![Biological Age Prediction](https://github-readme-stats.vercel.app/api/pin/?username=hamrouniraed07&repo=ML_Project&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/hamrouniraed07/ML_Project)
-[![Hotel Microservices](https://github-readme-stats.vercel.app/api/pin/?username=hamrouniraed07&repo=Hotel_microservices&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/hamrouniraed07/Hotel_microservices)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamrouniraed07&repo=ML_Project&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/hamrouniraed07/ML_Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamrouniraed07&repo=Hotel_microservices&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/hamrouniraed07/Hotel_microservices)
 
 </div>
 
 ---
 
-### 📈 Activity Graph
+### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamrouniraed07&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamrouniraed07&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
 </div>
 
 ---
@@ -120,4 +120,22 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/hamrouniraed07">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=wh
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hamrouniraed07&style=for-the-badge&color=blue" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<p align="center">
+  <i>⚡ "Data is the new oil, but insights are the refined fuel that drives innovation" ⚡</i>
+</p>
