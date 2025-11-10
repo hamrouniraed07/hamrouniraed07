@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Engineering student specializing in **Data Science** at École Polytechnique de Sousse
+- 🎓 Engineering student specializing in **Data Science** at Polytechnic School of Sousse
 - 🔬 Passionate about **Machine Learning**, **Deep Learning**, and **Predictive Analytics**
 - 💼 Experience in **Full Stack Development** and **Microservices Architecture**
 - 🌱 Currently exploring **Neural Networks**, **Computer Vision**, and **NLP**
