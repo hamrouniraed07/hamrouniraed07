@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Raed Mohamed Amin Hamrouni</h1>
+<h1 align="center"> Hi, I'm Raed Mohamed Amin Hamrouni</h1>
 <h3 align="center">🚀 Future Data Scientist & AI Enthusiast from Tunisia 🇹🇳</h3>
 
 <p align="center">
