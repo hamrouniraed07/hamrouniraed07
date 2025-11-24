@@ -82,25 +82,6 @@
 
 ---
 
-### 🔥 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamrouniraed07&repo=ML_Project&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/hamrouniraed07/ML_Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamrouniraed07&repo=Hotel_microservices&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/hamrouniraed07/Hotel_microservices)
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamrouniraed07&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
-</div>
-
----
-
 ### 🏆 GitHub Trophies
 
 <div align="center">
