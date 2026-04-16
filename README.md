@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═════╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=Data+Scientist+in+the+Making+%F0%9F%A7%AA;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Turning+Raw+Data+into+Real+Impact+%F0%9F%9A%80;Full+Stack+%2B+AI+%3D+Unstoppable+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2D9EF7&center=true&vCenter=true&width=700&lines=AI+Software+Engineer+%F0%9F%A4%96;Building+Intelligent+Systems+from+Scratch+%F0%9F%94%A7;LLMs+%7C+Agents+%7C+RAG+%7C+MLOps+%F0%9F%A7%A0;Shipping+AI+that+Works+in+the+Real+World+%F0%9F%9A%80;Data+Science+%2B+Engineering+%3D+Full+AI+Stack+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
@@ -24,32 +24,60 @@
 
 ## 🧬 Who Am I?
 
-> *"I don't just analyze data — I decode the stories hidden inside it."*
+> *"I don't just use AI — I engineer it."*
 
-I'm **Raed Mohamed Amin Hamrouni**, a Data Science engineering student at the **Polytechnic School of Sousse 🇹🇳**, obsessed with building AI-powered systems that actually matter. I live at the intersection of **data science**, **machine learning**, and **full-stack engineering** — where code meets curiosity.
+I'm **Raed Mohamed Amin Hamrouni**, an **AI Software Engineer** and Data Science student at the **Polytechnic School of Sousse 🇹🇳**. I design, build, and deploy end-to-end intelligent systems — from raw data pipelines to production-ready AI applications.
 
-When I'm not training models or debugging pipelines, I'm probably reading papers on neural architectures or designing scalable microservices. I believe the best engineers don't just write code — they **solve problems**.
+I'm not just a data scientist who knows Python. I architect **LLM-powered applications**, build **autonomous AI agents**, design **RAG pipelines**, and ship systems that actually scale. I live where machine intelligence meets software craftsmanship.
 
 ---
 
 ## 🔭 What I'm Currently Up To
 
 ```python
-raed = {
-    "🎓 studying":     "Data Science Engineering @ Polytechnic School of Sousse",
-    "🔬 researching":  ["Neural Networks", "Computer Vision", "NLP"],
-    "🛠️  building":    "AI solutions with real-world impact",
-    "📖 learning":     "Advanced Deep Learning architectures",
-    "🎯 goal":         "Join a world-class AI/Data team & push the frontier",
-    "💡 motto":        "Data → Insight → Action",
-}
+class RaedHamrouni:
+    role        = "AI Software Engineer 🤖"
+    education   = "Data Science Engineering @ Polytechnic School of Sousse 🇹🇳"
+    building    = ["LLM-powered apps", "AI Agents", "RAG pipelines", "MLOps systems"]
+    researching = ["Agentic AI", "Multimodal Models", "Retrieval-Augmented Generation"]
+    ai_stack    = ["LangChain", "OpenAI API", "Claude API", "HuggingFace", "FastAPI"]
+    goal        = "Engineer AI that doesn't just demo well — it works in production"
+    motto       = "Build it. Deploy it. Scale it. 🔁"
+
+    def say_hello(self):
+        return "Let's build something intelligent together 🚀"
 ```
 
 ---
 
-## ⚡ Tech Arsenal
+## 🤖 AI Engineering Stack
 
-### 🤖 AI & Data Science
+> *Beyond notebooks — the real-world AI toolbox.*
+
+### 🧠 LLMs, Agents & Orchestration
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97706?style=flat-square&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B21A8?style=flat-square&logoColor=white)
+
+### 🗃️ Vector Databases & RAG
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+
+### ⚙️ AI Deployment & MLOps
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+---
+
+## ⚡ Full Tech Arsenal
+
+### 🔬 Data Science & ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -67,13 +95,37 @@ raed = {
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-### 🗄️ Data & Infrastructure
+### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🧩 The AI Engineer Mindset
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   Problem                                                    │
+│      │                                                       │
+│      ▼                                                       │
+│   [ Understand the Data ]  ──►  [ Design the Architecture ] │
+│                                          │                   │
+│                                          ▼                   │
+│                              [ Build & Fine-Tune the Model ] │
+│                                          │                   │
+│                                          ▼                   │
+│                              [ Wrap in a Scalable API ]      │
+│                                          │                   │
+│                                          ▼                   │
+│                              [ Ship. Monitor. Improve. ]     │
+│                                          │                   │
+│                                          ▼                   │
+│                                       Impact ✅              │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -97,17 +149,18 @@ raed = {
 ## 🧠 A Bit More About My Thinking
 
 ```
-🔍  I believe every dataset has a story — my job is to tell it clearly.
-🧩  I love systems thinking: how small changes cascade into big outcomes.
-🚀  I ship things. Not just notebooks — real, deployed, working products.
-🌍  Proudly building from Tunisia, dreaming globally.
+🤖  I don't fear AI replacing engineers — I'm the one building those AI systems.
+🔍  Every problem is a model waiting to be trained on the right data.
+🧩  I think in pipelines: input → transform → output → feedback loop.
+🚀  I ship things. Not just notebooks — real, deployed, working AI products.
+🌍  Proudly building from Tunisia, dreaming and shipping globally.
 ```
 
 ---
 
 ## 📬 Let's Build Something Together
 
-I'm always open to **research collaborations**, **internship opportunities**, and **innovative projects** at the crossroads of AI and engineering.
+I'm always open to **AI engineering roles**, **LLM/agent projects**, and **innovative collaborations** at the intersection of intelligence and real-world product engineering.
 
 <div align="center">
 
@@ -122,5 +175,5 @@ I'm always open to **research collaborations**, **internship opportunities**, an
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
   <br/><br/>
-  <i>⚡ "The goal is not to be better than others — it's to be better than yesterday." ⚡</i>
+  <i>⚡ "The best AI engineer is not the one who knows the most models — it's the one who ships the most solutions." ⚡</i>
 </div>
