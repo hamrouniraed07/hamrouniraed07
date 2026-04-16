@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═════╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2D9EF7&center=true&vCenter=true&width=700&lines=AI+Software+Engineer+%F0%9F%A4%96;Building+Intelligent+Systems+from+Scratch+%F0%9F%94%A7;LLMs+%7C+Agents+%7C+RAG+%7C+MLOps+%F0%9F%A7%A0;Shipping+AI+that+Works+in+the+Real+World+%F0%9F%9A%80;Data+Science+%2B+Engineering+%3D+Full+AI+Stack+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2D9EF7&center=true&vCenter=true&width=700&lines=Data+Science+%26+AI+Engineer+%F0%9F%A7%A0;LLMs+%7C+Agents+%7C+RAG+%7C+MLOps+%F0%9F%A4%96;React+%2B+Node+%2B+Python+%2B+FastAPI+%F0%9F%94%A7;Shipping+AI+that+Works+in+the+Real+World+%F0%9F%9A%80;Turning+Intelligence+into+Products+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
@@ -26,9 +26,9 @@
 
 > *"I don't just use AI — I engineer it."*
 
-I'm **Raed Mohamed Amin Hamrouni**, an **AI Software Engineer** and Data Science student at the **Polytechnic School of Sousse 🇹🇳**. I design, build, and deploy end-to-end intelligent systems — from raw data pipelines to production-ready AI applications.
+I'm **Raed Mohamed Amin Hamrouni**, a **Data Science & AI Engineering** student at the **Polytechnic School of Sousse 🇹🇳**. I design, build, and deploy end-to-end intelligent systems — from raw data pipelines to production-ready AI applications.
 
-I'm not just a data scientist who knows Python. I architect **LLM-powered applications**, build **autonomous AI agents**, design **RAG pipelines**, and ship systems that actually scale. I live where machine intelligence meets software craftsmanship.
+I'm not just a data scientist who knows Python. I architect **LLM-powered applications**, build **autonomous AI agents**, design **RAG pipelines**, and ship full-stack products with **React, Node.js, Python & FastAPI**. I live where machine intelligence meets software craftsmanship.
 
 ---
 
@@ -36,11 +36,15 @@ I'm not just a data scientist who knows Python. I architect **LLM-powered applic
 
 ```python
 class RaedHamrouni:
-    role        = "AI Software Engineer 🤖"
+    role        = "Data Science & AI Engineering Student 🧠"
     education   = "Data Science Engineering @ Polytechnic School of Sousse 🇹🇳"
     building    = ["LLM-powered apps", "AI Agents", "RAG pipelines", "MLOps systems"]
     researching = ["Agentic AI", "Multimodal Models", "Retrieval-Augmented Generation"]
-    ai_stack    = ["LangChain", "OpenAI API", "Claude API", "HuggingFace", "FastAPI"]
+    stack       = {
+        "ai":       ["Python", "LangChain", "HuggingFace", "FastAPI"],
+        "frontend": ["React", "TypeScript"],
+        "backend":  ["Node.js", "Express"],
+    }
     goal        = "Engineer AI that doesn't just demo well — it works in production"
     motto       = "Build it. Deploy it. Scale it. 🔁"
 
@@ -89,10 +93,10 @@ class RaedHamrouni:
 
 ### 🌐 Full Stack Engineering
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
 ### 🗄️ Databases
