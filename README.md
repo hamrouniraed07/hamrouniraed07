@@ -211,5 +211,5 @@ I'm open to **AI engineering roles**, **LLM/agentic projects**, **MLOps consulti
   <br/><br/>
   <i>⚡ "The best AI engineer is not the one who knows the most models — it's the one who ships the most solutions." ⚡</i>
   <br/><br/>
-  <img src="https://preview.redd.it/anime-gif-collection-v0-x7rt5z1qx90e1.gif?width=540&auto=webp&s=936fad57ceecdb5a8f5514d1d8683696c3b7c075" width="540px"/>
+  <img src="[https://preview.redd.it/anime-gif-collection-v0-x7rt5z1qx90e1.gif?width=540&auto=webp&s=936fad57ceecdb5a8f5514d1d8683696c3b7c075](https://c.tenor.com/cOhgxKZrGqQAAAAC/zoro-one-piece.gif)" width="540px"/>
 </div>
