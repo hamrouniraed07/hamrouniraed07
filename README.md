@@ -191,12 +191,6 @@ class RaedHamrouni:
 </div>
 
 ---
-<div align="center">
-
-<img src="[https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZHZhZWxpc3IwazFsdWhpNjFwOTNuNGpyOTlkd2dtdG9mMThuaHZmbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xfn8etZCMPWQo/giphy.gif](https://preview.redd.it/anime-gif-collection-v0-x7rt5z1qx90e1.gif?width=540&auto=webp&s=936fad57ceecdb5a8f5514d1d8683696c3b7c075)" width="600px"/>
-
-</div>
----
 
 ## 📬 Let's Build Something Together
 
@@ -216,4 +210,6 @@ I'm open to **AI engineering roles**, **LLM/agentic projects**, **MLOps consulti
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
   <br/><br/>
   <i>⚡ "The best AI engineer is not the one who knows the most models — it's the one who ships the most solutions." ⚡</i>
+  <br/><br/>
+  <img src="https://preview.redd.it/anime-gif-collection-v0-x7rt5z1qx90e1.gif?width=540&auto=webp&s=936fad57ceecdb5a8f5514d1d8683696c3b7c075" width="540px"/>
 </div>
