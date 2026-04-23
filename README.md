@@ -191,6 +191,12 @@ class RaedHamrouni:
 </div>
 
 ---
+<div align="center">
+
+<img src="[https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZHZhZWxpc3IwazFsdWhpNjFwOTNuNGpyOTlkd2dtdG9mMThuaHZmbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xfn8etZCMPWQo/giphy.gif](https://preview.redd.it/anime-gif-collection-v0-x7rt5z1qx90e1.gif?width=540&auto=webp&s=936fad57ceecdb5a8f5514d1d8683696c3b7c075)" width="600px"/>
+
+</div>
+---
 
 ## 📬 Let's Build Something Together
 
