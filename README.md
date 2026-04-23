@@ -79,7 +79,7 @@ class RaedHamrouni:
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/GPT--4o--mini-412991?style=flat-square&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama_Llama_3.2-000000?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logoColor=white)
 
 ### 🗃️ Vector Databases & RAG
