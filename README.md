@@ -1,5 +1,13 @@
 <div align="center">
 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+
+</div>
+
+<div align="center">
+
 ```
 ██████╗  █████╗ ███████╗██████╗     ██╗  ██╗ █████╗ ███╗   ███╗██████╗  ██████╗ ██╗   ██╗███╗   ██╗██╗
 ██╔══██╗██╔══██╗██╔════╝██╔══██╗    ██║  ██║██╔══██╗████╗ ████║██╔══██╗██╔═══██╗██║   ██║████╗  ██║██║
@@ -44,6 +52,7 @@ class RaedHamrouni:
     currently   = "AI/ML Engineer Intern @ ClassQuiz — building production AI pipelines"
     building    = [
         "End-to-end AI/ML pipelines (OCR → LLM grading → report generation)",
+        "Agentic workflows with LangGraph",
         "MLOps systems (ZenML, MLflow, Prometheus)",
         "Fullstack apps (React + FastAPI + Docker)"
     ]
@@ -68,11 +77,17 @@ class RaedHamrouni:
 
 ### 🧠 LLMs, Agents & Orchestration
 ![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/GPT--4o--mini-412991?style=flat-square&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama_Llama_3.2-000000?style=flat-square&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logoColor=white)
 
+### 🗃️ Vector Databases & RAG
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
 
 ### ⚙️ MLOps & Production Deployment
 ![ZenML](https://img.shields.io/badge/ZenML-7B3FE4?style=flat-square&logoColor=white)
