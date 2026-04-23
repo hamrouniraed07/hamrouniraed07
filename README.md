@@ -211,5 +211,5 @@ I'm open to **AI engineering roles**, **LLM/agentic projects**, **MLOps consulti
   <br/><br/>
   <i>⚡ "The best AI engineer is not the one who knows the most models — it's the one who ships the most solutions." ⚡</i>
   <br/><br/>
-  <img src="https://i.pinimg.com/originals/db/a5/89/dba58916159f9d5f0d2fd18fd6285095.gif" width="540px"/>
+  <img src="[[https://i.pinimg.com/originals/db/a5/89/dba58916159f9d5f0d2fd18fd6285095.gif](https://giffiles.alphacoders.com/220/220001.gif)](https://media.tenor.com/a7lOVQ5KAmgAAAAM/luffy-one-piece.gif)" width="540px"/>
 </div>
