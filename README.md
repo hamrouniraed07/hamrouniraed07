@@ -44,7 +44,6 @@ class RaedHamrouni:
     currently   = "AI/ML Engineer Intern @ ClassQuiz — building production AI pipelines"
     building    = [
         "End-to-end AI/ML pipelines (OCR → LLM grading → report generation)",
-        "Agentic workflows with LangGraph",
         "MLOps systems (ZenML, MLflow, Prometheus)",
         "Fullstack apps (React + FastAPI + Docker)"
     ]
@@ -69,17 +68,11 @@ class RaedHamrouni:
 
 ### 🧠 LLMs, Agents & Orchestration
 ![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/GPT--4o--mini-412991?style=flat-square&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama_Llama_3.2-000000?style=flat-square&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logoColor=white)
 
-### 🗃️ Vector Databases & RAG
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
 
 ### ⚙️ MLOps & Production Deployment
 ![ZenML](https://img.shields.io/badge/ZenML-7B3FE4?style=flat-square&logoColor=white)
@@ -153,53 +146,6 @@ class RaedHamrouni:
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
 ```
-
----
-
-## 🚀 Featured Projects
-
-### 🔐 [Credit Card Fraud Detection – Financial MLOps Pipeline](https://github.com/hamrouniraed07)
-> 284K real transactions · 99.9% precision · 97.8% AUC-ROC · <10ms API response
-
-End-to-end MLOps pipeline: automated training (ZenML + MLflow), hyperparameter tuning with Optuna, class imbalance handling (SMOTE), REST inference API (FastAPI), drift detection (Prometheus + Grafana), CI/CD (GitHub Actions), fully containerised with Docker.
-
-`Python` `ZenML` `MLflow` `Optuna` `FastAPI` `Docker` `Prometheus` `Grafana` `GitHub Actions`
-
----
-
-### 🎓 [ClassQuiz – End-to-End AI Grading Pipeline](https://github.com/hamrouniraed07)
-> Production AI system · Arabic OCR + LLM grading · LangGraph agentic workflow
-
-Designed and deployed a full AI/ML pipeline: data ingestion → Gemini 2.5 Flash OCR → Llama 3.2 grading → confidence-based validation (70% threshold) → report generation. Built agentic workflows with LangGraph, JWT-authenticated FastAPI service, containerised with Docker Compose.
-
-`Python` `FastAPI` `Gemini 2.5 Flash` `Llama 3.2` `LangGraph` `HuggingFace` `Docker` `MongoDB`
-
----
-
-### 🏋️ [FitBox – LLM Fine-Tuning with LoRA](https://github.com/hamrouniraed07)
-> LoRA fine-tuning on Llama 3.2 · domain-adapted fitness & nutrition coach
-
-Applied LoRA fine-tuning for LLM domain adaptation; evaluated model quality pre/post fine-tuning via domain-specific benchmarks. Exposed via Flask + Streamlit.
-
-`Python` `Ollama` `HuggingFace Transformers` `LoRA` `Flask` `Streamlit`
-
----
-
-### 📚 [StudyPal – Agentic AI Learning Platform](https://github.com/hamrouniraed07)
-> Adaptive learning · LLM inference pipeline · React + FastAPI + Ollama
-
-Agentic LLM pipeline with structured output validation, dynamic difficulty, gamification (points, leaderboard, evolving avatars). Full-stack: React frontend + FastAPI + SQLite backend.
-
-`Python` `FastAPI` `Ollama (Llama 3.2)` `React` `SQLAlchemy` `SQLite`
-
----
-
-### 🏨 [Hotel Microservices Architecture](https://github.com/hamrouniraed07)
-> gRPC + GraphQL + REST + Kafka · independent services · LLM integration
-
-Hotel reservation app on a full microservices architecture: independent user, reservation, room, and notification services interconnected via gRPC, GraphQL, REST, and Kafka. LLM integration via OpenRouter.
-
-`Node.js` `Express` `Apollo Server` `gRPC` `Kafka` `Docker` `OpenRouter`
 
 ---
 
