@@ -82,11 +82,6 @@ class RaedHamrouni:
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logoColor=white)
 
-### 🗃️ Vector Databases & RAG
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
-
 ### ⚙️ MLOps & Production Deployment
 ![ZenML](https://img.shields.io/badge/ZenML-7B3FE4?style=flat-square&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
