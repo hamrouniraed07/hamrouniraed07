@@ -15,7 +15,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═════╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2D9EF7&center=true&vCenter=true&width=750&lines=AI+%26+Fullstack+Engineer+%F0%9F%A7%A0;LLMs+%7C+Agentic+Pipelines+%7C+RAG+%7C+MLOps+%F0%9F%A4%96;React+%2B+Node+%2B+Python+%2B+FastAPI+%F0%9F%94%A7;LangGraph+%7C+Gemini+%7C+Llama+%7C+HuggingFace+%F0%9F%94%A5;From+OCR+to+Production+AI+%E2%80%94+End+to+End+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2D9EF7&center=true&vCenter=true&width=750&lines=AI+%26+Fullstack+Engineer+%F0%9F%A7%A0;LLMs+%7C+Agentic+Pipelines+%7C+MLOps+%F0%9F%A4%96;React+%2B+Node+%2B+Python+%2B+FastAPI+%F0%9F%94%A7;LangGraph+%7C+Gemini+%7C+Llama+%7C+HuggingFace+%F0%9F%94%A5;From+OCR+to+Production+AI+%E2%80%94+End+to+End+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
