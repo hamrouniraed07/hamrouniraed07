@@ -15,7 +15,10 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═════╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2D9EF7&center=true&vCenter=true&width=750&lines=AI+%26+Fullstack+Engineer+%F0%9F%A7%A0;LLMs+%7C+Agentic+Pipelines+%7C+MLOps+%F0%9F%A4%96;React+%2B+Node+%2B+Python+%2B+FastAPI+%F0%9F%94%A7;Gemini+%7C+OLlama+%7C+HuggingFace+%F0%9F%94%A5;From+OCR+to+Production+AI+%E2%80%94+End+to+End+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- Ubuntu Hacking Terminal Animation -->
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="700px"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2D9EF7&center=true&vCenter=true&width=750&lines=AI+%26+Fullstack+Engineer+%F0%9F%A7%A0;LLMs+%7C+Agentic+Pipelines+%7C+MLOps+%F0%9F%A4%96;React+%2B+Node+%2B+Python+%2B+FastAPI+%F0%9F%94%A7;Gemini+%7C+OLlama+%7C+HuggingFace+%F0%9F%94%A5;From+OCR+to+Production+AI+%E2%80%94+End+to+End+%F0%9F%9A%80;Ubuntu+%7C+Linux+%7C+Terminal+Power+User+%F0%9F%90%A7" alt="Typing SVG" />
 
 <br/>
 
@@ -23,6 +26,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raed-med-amin-hamrouni)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamrouniraed07)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hamrouni_raed07/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
 
 </div>
 
@@ -59,6 +63,7 @@ class RaedHamrouni:
         "mlops":    ["ZenML", "MLflow", "Docker", "GitHub Actions", "Prometheus", "Grafana"],
         "frontend": ["React", "TypeScript"],
         "backend":  ["Node.js", "Express", "FastAPI"],
+        "os":       ["Ubuntu 🐧", "Linux CLI", "Bash Scripting", "WSL2"]
     }
     goal  = "Engineer AI that doesn't just demo — it runs in production, at scale"
     motto = "Build it. Deploy it. Monitor it. Improve it. 🔁"
@@ -66,6 +71,44 @@ class RaedHamrouni:
     def say_hello(self):
         return "Let's build something intelligent together 🚀"
 ```
+
+---
+
+## 🐧 Ubuntu / Linux Terminal Power
+
+> *The real AI engineer's IDE is the terminal.*
+
+```bash
+raed@ubuntu:~$ whoami
+> AI & Fullstack Engineer — shipping models, not just training them
+
+raed@ubuntu:~$ cat /etc/os-release | grep PRETTY
+PRETTY_NAME="Ubuntu 22.04.3 LTS (Jammy Jellyfish)"
+
+raed@ubuntu:~$ ls ~/production-stack/
+fastapi-service/   langgraph-agents/   mlflow-tracking/
+zenml-pipelines/   docker-compose.yml  prometheus.yml
+
+raed@ubuntu:~$ sudo apt install -y intelligence ambition execution
+[sudo] password for raed: ••••••••
+Reading package lists... Done
+Installing: intelligence (∞), ambition (max), execution (production-grade)
+0 upgraded, 3 newly installed, 0 to remove.
+✅ Setup complete. Ready to ship AI.
+
+raed@ubuntu:~$ █
+```
+
+<!-- Ubuntu Terminal Hacking GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif" width="700px"/>
+  <br/>
+  <img src="https://img.shields.io/badge/OS-Ubuntu_22.04_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Shell-Bash%20%2F%20Zsh-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Terminal-Power_User-239120?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+</div>
 
 ---
 
@@ -91,6 +134,7 @@ class RaedHamrouni:
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 ---
 
@@ -114,6 +158,14 @@ class RaedHamrouni:
 ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+
+### 🐧 Linux / DevOps / OS
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![WSL2](https://img.shields.io/badge/WSL2-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-000000?style=flat-square&logo=openssh&logoColor=white)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -146,6 +198,10 @@ class RaedHamrouni:
 │                              (LangGraph agentic workflows)           │
 │                                              │                       │
 │                                              ▼                       │
+│                         [ Deploy on Ubuntu Linux Server ]            │
+│                              (SSH + systemd + Nginx + UFW)           │
+│                                              │                       │
+│                                              ▼                       │
 │                         [ Monitor. Detect Drift. Improve. ]          │
 │                              (MLflow + Prometheus + Grafana)         │
 │                                              │                       │
@@ -165,6 +221,7 @@ class RaedHamrouni:
 🧩  Agentic AI is not magic — it's orchestrated logic with smart fallbacks.
 🚀  I ship things. Not just notebooks — real, deployed, monitored AI products.
 📊  Metrics matter: AUC-ROC, F1, precision/recall, drift, latency. All of it.
+🐧  Ubuntu is not just an OS — it's a way of thinking: open, robust, production-ready.
 🌍  Proudly building from Tunisia, shipping globally.
 ```
 
@@ -206,5 +263,7 @@ I'm open to **AI engineering roles**, **LLM/agentic projects**, **MLOps consulti
   <br/><br/>
   <i>⚡ "The best AI engineer is not the one who knows the most models — it's the one who ships the most solutions." ⚡</i>
   <br/><br/>
-  <img src="https://preview.redd.it/anime-gif-collection-v0-x7rt5z1qx90e1.gif?width=540&auto=webp&s=936fad57ceecdb5a8f5514d1d8683696c3b7c075" width="540px"/>
+  <img src="https://media.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif" width="540px"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Powered_by-Ubuntu_🐧-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </div>
