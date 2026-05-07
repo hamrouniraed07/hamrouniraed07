@@ -18,8 +18,6 @@
 <!-- Ubuntu Hacking Terminal Animation -->
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="700px"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2D9EF7&center=true&vCenter=true&width=750&lines=AI+%26+Fullstack+Engineer+%F0%9F%A7%A0;LLMs+%7C+Agentic+Pipelines+%7C+MLOps+%F0%9F%A4%96;React+%2B+Node+%2B+Python+%2B+FastAPI+%F0%9F%94%A7;Gemini+%7C+OLlama+%7C+HuggingFace+%F0%9F%94%A5;From+OCR+to+Production+AI+%E2%80%94+End+to+End+%F0%9F%9A%80;Ubuntu+%7C+Linux+%7C+Terminal+Power+User+%F0%9F%90%A7" alt="Typing SVG" />
-
 <br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Hamrouniraed50@gmail.com)
@@ -265,5 +263,5 @@ I'm open to **AI engineering roles**, **LLM/agentic projects**, **MLOps consulti
   <br/><br/>
   <img src="https://media.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif" width="540px"/>
   <br/>
-  <img src="https://img.shields.io/badge/Powered_by-Ubuntu_🐧-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://preview.redd.it/anime-gif-collection-v0-x7rt5z1qx90e1.gif?width=540&auto=webp&s=936fad57ceecdb5a8f5514d1d8683696c3b7c075" width="540px"/>
 </div>
